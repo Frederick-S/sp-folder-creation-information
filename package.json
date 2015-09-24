@@ -1,0 +1,22 @@
+{
+  "name": "sp-folder-creation-information",
+  "version": "0.0.1",
+  "description": "Create a new SharePoint folder creation information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frederick-S/sp-folder-creation-information.git"
+  },
+  "keywords": [
+    "SharePoint"
+  ],
+  "author": "Frederick-S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frederick-S/sp-folder-creation-information/issues"
+  },
+  "homepage": "https://github.com/Frederick-S/sp-folder-creation-information#readme"
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="4184da57-52ce-4aa6-9da4-90deec156ba4" 
+        solutionId="4184da57-52ce-4aa6-9da4-90deec156ba4" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint_App_SPFolderCreationInformation_Test"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="0d74bed0-19cc-4439-9922-6a8e70342b8f" />
+  </features>
+</package>
