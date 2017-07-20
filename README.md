@@ -1,4 +1,6 @@
 # sp-folder-creation-information
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/sp-folder-creation-information.svg)](https://greenkeeper.io/)
 Create a new SharePoint folder creation information.
 
 ## Installation
